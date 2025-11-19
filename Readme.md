@@ -1,5 +1,5 @@
 # YOLOv8-based Intelligent Detection System for Power Equipment Thermal Imaging
-
+> **Note:** This repository contains a streamlined version of the project for demonstration purposes. Due to confidentiality agreements and data privacy, only essential code and sample data are provided. The complete project includes a larger dataset and more extensive experimental code. (including other backend code,etc)
 ## 1. Project Background
 
 The safe and stable operation of the power grid is of paramount importance. Key equipment such as voltage transformers (PTs) and surge arresters are critical components. Due to factors like material degradation and electrical breakdown, this equipment can exhibit abnormal heating. This overheating is a precursor to severe failures like equipment breakdown, and if not detected and addressed in time, it can seriously threaten the safety of the power grid.
@@ -47,7 +47,7 @@ essence_code/
 1.  **Clone the Project**
     ```bash
     git clone <your-repository-url>
-    cd newstart
+    cd essence_code
     ```
 
 2.  **Create and Activate Conda Environment** (Recommended)

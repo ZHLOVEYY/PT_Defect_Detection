@@ -47,7 +47,7 @@ essence_code/
 1.  **Clone the Project**
     ```bash
     git clone <your-repository-url>
-    cd newstart
+    cd essence_code
     ```
 
 2.  **Create and Activate Conda Environment** (Recommended)
