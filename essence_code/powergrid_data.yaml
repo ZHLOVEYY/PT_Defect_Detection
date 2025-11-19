@@ -1,0 +1,12 @@
+# 数据集配置文件
+
+# 训练和验证数据的路径 (相对于此文件的路径)
+train: ./Dataset/train/images
+val: ./Dataset/valid/images
+test: ./Dataset/test/images
+
+# 类别数量
+nc: 5
+
+# 类别名称
+names: ['PT', 'PT casing', 'PT tank', 'arrester', 'arrester bushing']

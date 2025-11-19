@@ -1,0 +1,38 @@
+# vscode
+.vscode/
+# PyTorch
+*.pt
+*.pth
+*.onnx
+
+# Ultralytics
+runs/
+yolov8n-obb.pt
+yolov8n.pt
+
+# IDE / Editor
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# macOS
+.DS_Store
+Dataset0206v2_rotate/
+Dataset0206v3/
+Dataset0206v4/
+Dataset0212v1/
+images_for_test/
+testCT_20250212/
+VSCode_project/
+Power_grid/
+AI/
+namechanging.py
+namechanging2num.py
